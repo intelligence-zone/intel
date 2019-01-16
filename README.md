@@ -1,0 +1,2 @@
+# intel
+Decentralized Intelligence Application
